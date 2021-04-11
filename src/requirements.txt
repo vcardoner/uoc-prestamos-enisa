@@ -1,0 +1,5 @@
+beautifulsoup4~=4.9.3
+pandas~=1.2.2
+snscrape~=0.3.5.dev96+g47fbc2a
+requests~=2.25.1
+selenium~=3.141.0
